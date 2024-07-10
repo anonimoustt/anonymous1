@@ -22,3 +22,7 @@ https://colab.research.google.com/drive/1QJY60RVnX5etwU0wLImPXU6ra5NpEDVk?usp=sh
    
 https://colab.research.google.com/drive/15D03KLZTzLk0M5vSlEeUWiNhYRJvU33f?usp=sharing
 
+3. Comparison with the current state-of-the-arts embedding methods
+
+https://colab.research.google.com/drive/1D6TUZLvSrbIJXcb3Z7l4KDYbWWZPrFJR?usp=sharing
+
