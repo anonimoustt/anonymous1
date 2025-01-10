@@ -1,9 +1,7 @@
 
 # Introduction
 
-In this research, we have proposed a text classification method that computes the probability scores of the target topics of the short text corpus, specifically conversation texts. The typical text classification state-of-the-art requires the trained model, training data, human opinion, and large corpus to perform inference efficiently. Our Proposed approach is independent of these requirements. We have used the Sentence Transformer to gain the embeddings. We have leveraged other embedding methods, such as Word2Vec, and Fast Text, and compared the model performance with our approach.
-Further, we make a comparison with the zero-shot and few-shot models. In our experiment, we use two benchmarks: daily dialog {Lhoest_Datasets_A_Community_2021} and dialog sum {chen-etal-2021-dialogsum} data. The empirical outcomes depict that our model outperforms the traditional text classification techniques. 
-
+In this research, we present a groundbreaking short text classification method for digital forensic analysis that effectively computes probability scores for target topics within a corpus of conversational texts. Unlike traditional state-of-the-art text classification methods, which depend on a trained model, extensive training data, human input, and a large corpus for efficient inference, our innovative approach operates independently of these constraints. We leverage the Sentence Transformer to generate high-quality embeddings and rigorously compare our model's performance with other embedding techniques, such as Word2Vec and Fast Text. Moreover, we evaluate our method against zero-shot and few-shot models. Our experiments involve two authoritative benchmarks: Daily Dialog {Lhoest_Datasets_A_Community_2021} and Dialog Sum {chen-etal-2021-dialogsum} data. The empirical results unequivocally demonstrate that our model outperforms traditional text classification techniques, confirming its effectiveness in this domain.
 # Data
 The dialog sum {chen-etal-2021-dialogsum} data are available at:
 
